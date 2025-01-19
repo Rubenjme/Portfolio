@@ -3,33 +3,30 @@
 Greetings! My name is Rubén, and I'm excited to share my still developing portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
 
 <!--  
-Para el repositorio de Portfolio:
-Tener una tabla para Ciencia de datos (Los de análisis sobre todo) - Data Analyst
-Otra con los de Inteligencia Artificial (Machine Learning, PLN, clustering, etc) - Data Scientist
-Otra con los relacionados con Ingeniería de datos - Data Engineer 
+En el repositorio principal poner una tabla que enlace a algunos de ellos 
 
-Para el repositorio principal poner una tabla que enlace a algunos de ellos -->
+Para la paleta de colores -> https://icolorpalette.com/color
+-->
 
 ## 🤖 **Projects related to Artificial Intelligence & Data Analysis** 📊
 <!-- 1a tabla, 1a fila (AI)-->
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">💨Predicciones de calidad del aire: Regresión lineal y Árboles de decisión</h3>
+<h3 align="center">💨Air quality predictions: Linear regression and Decision trees</h3>
 <div align="center">
 <a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://img.freepik.com/fotos-premium/calidad-aire-disminuye-debido-actividades-industriales-que-empeoran-niveles-contaminacion_795881-12126.jpg" width="400" alt="Curso intermedio Android"></a>
   
 <p>
 <a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Go to the project-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 
-<p>Implementación de modelos de regresión lineal simple, múltiple y árboles de decisión para predecir concentraciones de benceno en carreteras de alta densidad de tráfico. El proyecto incluye limpieza de datos, análisis exploratorio y evaluación de métricas como R², MAE y RMSLE con Python y Scikit-learn.</p>
+<p>Implementation of simple linear regression, multiple linear regression, and decision tree models to predict benzene concentrations on high-traffic roads. The project includes data cleaning, exploratory data analysis, and evaluation of metrics such as R², MAE, and RMSLE using Python and Scikit-learn.</p>
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30">
-<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="30">  <!-- Python -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Scikit learn" width="47" height="28">  <!-- Scikit learn -->
 </p>
 </div>                                                                                      
 </td>       
@@ -38,14 +35,13 @@ Para el repositorio principal poner una tabla que enlace a algunos de ellos -->
 <h3 align="center">Redes Neuronales clásicas</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+<img src="https://img.shields.io/badge/Go to the project-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
+
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
 </div>                                                                                      
 </td>  
@@ -117,3 +113,10 @@ Para el repositorio principal poner una tabla que enlace a algunos de ellos -->
                                                                                       
 </td>  
 </table>
+
+
+<!-- Iconos
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30"> <!-- React --
+<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="30"> <!-- Firebase --
+
+-->
