@@ -2,12 +2,6 @@
 
 Greetings! My name is Rubén, and I'm excited to share my still developing portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
 
-<!--  
-En el repositorio principal poner una tabla que enlace a algunos de ellos 
-
-Para la paleta de colores -> https://icolorpalette.com/color
--->
-
 ## 🤖 **Projects related to Artificial Intelligence & Data Analysis** 📊
 <!-- 1a tabla, 1a fila (AI)-->
 <table>
@@ -25,8 +19,8 @@ Para la paleta de colores -> https://icolorpalette.com/color
 
 <p>Implementation of simple linear regression, multiple linear regression, and decision tree models to predict benzene concentrations on high-traffic roads. The project includes data cleaning, exploratory data analysis, and evaluation of metrics such as R², MAE, and RMSLE using Python and Scikit-learn.</p>
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="30">  <!-- Python -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Scikit learn" width="47" height="28">  <!-- Scikit learn -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="python" width="47" height="47"/>  <!-- Scikit learn -->
 </p>
 </div>                                                                                      
 </td>       
@@ -118,5 +112,11 @@ Para la paleta de colores -> https://icolorpalette.com/color
 <!-- Iconos
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30"> <!-- React --
 <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="30"> <!-- Firebase --
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <!-- Python --
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="python" width="47" height="47"/>  <!-- Scikit learn --
 
+En el repositorio principal poner una tabla que enlace a algunos de ellos 
+
+Para la paleta de colores -> https://icolorpalette.com/color
+Para iconos -> https://devicon.dev
 -->
