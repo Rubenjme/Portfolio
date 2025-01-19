@@ -25,7 +25,7 @@ Para el repositorio principal poner una tabla que enlace a algunos de ellos -->
 </a>
 </p>
 
-<p>Implementación de modelos de regresión lineal simple, múltiple y árboles de decisión para predecir concentraciones de benceno. El proyecto incluye limpieza de datos, análisis exploratorio y evaluación de métricas como R², MAE y RMSLE con Python y scikit-learn.</p>
+<p>Implementación de modelos de regresión lineal simple, múltiple y árboles de decisión para predecir concentraciones de benceno en carreteras de alta densidad de tráfico. El proyecto incluye limpieza de datos, análisis exploratorio y evaluación de métricas como R², MAE y RMSLE con Python y Scikit-learn.</p>
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30">
 <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="30">
@@ -77,6 +77,7 @@ Para el repositorio principal poner una tabla que enlace a algunos de ellos -->
 </td>
 </tr>
 </table>
+
 
 ## ⚙**Projects related to Data Engineering**
 <!-- 3a tabla, 1a fila (Data Engineering)-->
