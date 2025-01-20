@@ -19,29 +19,45 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 
 <p>Implementation of simple linear regression, multiple linear regression, and decision tree models to predict benzene concentrations on high-traffic roads. The project includes data cleaning, exploratory data analysis, and evaluation of metrics such as R², MAE, and RMSLE using Python and Scikit-learn.</p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="python" width="47" height="47"/>  <!-- Scikit learn -->
+<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit learn" width="47" height="47" title="Scikit Learn" />  <!-- Scikit learn -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" title="Numpy" /> <!-- Numpy -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="41" height="41" title="Pandas" /> <!-- Pandas -->
 </p>
 </div>                                                                                      
 </td>       
 
+
+<!----------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------->
+
 <td width="50%">
-<h3 align="center">Redes Neuronales clásicas</h3>
+<h3 align="center">1️⃣Digit classification with Neural networks with Keras</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://www.shutterstock.com/image-vector/deep-neural-network-dnn-diagram-600nw-2291330795.jpg" width="445" height = "260" alt="Curso intermedio Android"></a>
 
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/Go to the project-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/Rubenjme/Digit-classification" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-0b97d4?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>                                                                                      
-</td>  
-</tr>
+<p> Handwritten digit classification project using deep neural networks with TensorFlow and Keras. Regularization techniques like L2, Dropout, and BatchNormalization were implemented, along with optimizers like Adam to improve accuracy and prevent overfitting. Evaluation on validation data was included. </p>
 
-<!-- 1a tabla, 2a fila (AI)-->
+<p align="center">
+<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" width="37" height="37" title="Keras" />   <!-- Keras -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="37" height="37" title="TensorFlow" />  <!-- TensorFlow -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" title="Matplotlib" />  <!-- Matplotlib -->
+</p>
+</div>                                                                                      
+</td> 
+
+
+<!----------------------------------------------------------------------------------------------->
+<!-------------------------------------1a tabla, 2a fila (AI)------------------------------------>
+<!----------------------------------------------------------------------------------------------->
+
 <tr>
 <td width="50%">
 <h3 align="center">Análisis de muertes en el Titanic</h3>
@@ -52,25 +68,20 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
   
 <td width="50%">
 <h3 align="center">Nuevo Proyecto 2</h3>
-<div align="center">
-<a href="https://github.com/tu-usuario/proyecto2" target="_blank"><img src="https://via.placeholder.com/400" width="400" alt="Nuevo Proyecto 2"></a>
-<p>
-<a href="https://github.com/tu-usuario/proyecto2" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-green?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-purple?style=for-the-badge&color=800080">
-</a>
-</p>
-<p>Descripción breve de tu proyecto 2 con <strong>puntos clave</strong>. Curso <strong>GRATUITO</strong> y abierto.</p>
-</div>
 </td>
 </tr>
 </table>
 
 
+
+<!----------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------->
+<!--------------------------------2a tabla, 1a fila (Data Engineering)--------------------------->
+<!----------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------->
+
 ## ⚙**Projects related to Data Engineering**
-<!-- 3a tabla, 1a fila (Data Engineering)-->
+
 <table>
 <tr>
 <td width="50%">
@@ -112,8 +123,11 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <!-- Iconos
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30"> <!-- React --
 <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="30"> <!-- Firebase --
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <!-- Python --
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="python" width="47" height="47"/>  <!-- Scikit learn --
+<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python --
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />   <!-- Keras --
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />  <!-- TensorFlow --
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />  <!-- Matplotlib --
+
 
 En el repositorio principal poner una tabla que enlace a algunos de ellos 
 
