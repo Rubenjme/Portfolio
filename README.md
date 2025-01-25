@@ -20,9 +20,9 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <p>Implementation of simple linear regression, multiple linear regression, and decision tree models to predict benzene concentrations on high-traffic roads. The project includes data cleaning, exploratory data analysis, and evaluation of metrics such as R², MAE, and RMSLE using Python and Scikit-learn.</p>
 <p align="center">
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit learn" width="47" height="47" title="Scikit Learn" />  <!-- Scikit learn -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" title="Numpy" /> <!-- Numpy -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="41" height="41" title="Pandas" /> <!-- Pandas -->
+<a href="https://scikit-learn.org" title="Scikit Learn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit learn" width="47" height="47" /></a> <!-- Scikit learn -->
+<a href="https://numpy.org" title="Numpy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" /></a> <!-- Numpy -->
+<a href="https://pandas.pydata.org" title="Pandas"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="41" height="41" /></a> <!-- Pandas -->
 </p>
 </div>                                                                                      
 </td>       
@@ -112,6 +112,9 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30"> <!-- React --
 <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="30"> <!-- Firebase --
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python --
+<a href="https://scikit-learn.org" title="Scikit Learn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit learn" width="47" height="47" /></a> <!-- Scikit learn --
+<a href="https://numpy.org" title="Numpy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" /></a> <!-- Numpy --
+<a href="https://pandas.pydata.org" title="Pandas"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="41" height="41" /></a> <!-- Pandas --
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />   <!-- Keras --
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />  <!-- TensorFlow --
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />  <!-- Matplotlib --
