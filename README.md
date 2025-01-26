@@ -46,7 +46,7 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 
 <p align="center">
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" width="37" height="37" title="Keras" />   <!-- Keras -->
+<a href="https://keras.io" title="Keras"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" width="37" height="37" /></a> <!-- Keras -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="37" height="37" title="TensorFlow" />  <!-- TensorFlow -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" title="Matplotlib" />  <!-- Matplotlib -->
 </p>
@@ -103,7 +103,24 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 </td>       
 
 <td width="50%">
-<h3 align="center">Proyecto en desarrollo...</h3>                                                                               
+<h3 align="center">🎵Spotify ETL Pipeline with Docker and Airflow</h3>          
+<div align="center">
+<a href="https://github.com/Rubenjme/data_processing_hdfs_spark_mllib_kafka" target="_blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/024/637/674/small_2x/jet-plane-in-flight-generative-ai-photo.jpg" width="400" alt="HDFS, Spark and Kafka"></a>
+<p>
+<a href="https://github.com/Rubenjme/data_processing_hdfs_spark_mllib_kafka" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-b3e6f5?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>  This project automates the extraction, transformation, and loading of recent Spotify song playback data using its API. The data is loaded into a PostgreSQL database. The process is automated using Apache Airflow for orchestration and Docker for containerization </p>
+
+<p align="center">
+<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
+<a href="https://pandas.pydata.org" title="Pandas"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="41" height="41" /></a> <!-- Pandas -->
+<a href="https://www.postgresql.org" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a> <!-- PostgreSQL -->
+<a href="https://www.docker.com" title="Docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /></a> <!-- Docker -->
+<a href="https://airflow.apache.org" title="Airflow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="37" /></a> <!-- Airflow -->
+</p>
+</div>
 </td>  
 </table>
 
@@ -115,16 +132,19 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <a href="https://scikit-learn.org" title="Scikit Learn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit learn" width="47" height="47" /></a> <!-- Scikit learn --
 <a href="https://numpy.org" title="Numpy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" /></a> <!-- Numpy --
 <a href="https://pandas.pydata.org" title="Pandas"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="41" height="41" /></a> <!-- Pandas --
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />   <!-- Keras --
+<a href="https://keras.io" title="Keras"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" /></a> <!-- Keras --
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />  <!-- TensorFlow --
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />  <!-- Matplotlib --
 <a href="https://spark.apache.org" title="Apache Spark"> <img src="https://i.imgur.com/0qZULBd.png" alt="Apache Spark" width="55" height="33" /></a> <!-- Apache Spark --
 <a href="https://kafka.apache.org" title="Apache Kafka"> <img src="https://i.imgur.com/MFcdpIP.png" alt="Kafka" width="40" height="40" /></a> <!-- Kafka --
-<a href="https://hadoop.apache.org" title="Hadoop"> <img src="https://i.imgur.com/83PZnwA.png" alt="Hadoop" width="50" height="50" /></a> <!-- Hadoop --        
+<a href="https://hadoop.apache.org" title="Hadoop"> <img src="https://i.imgur.com/83PZnwA.png" alt="Hadoop" width="50" height="50" /></a> <!-- Hadoop --       
+<a href="https://www.postgresql.org" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a> <!-- PostgreSQL --
+<a href="https://www.docker.com" title="Docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /></a> <!-- Docker --
+<a href="https://airflow.apache.org" title="Airflow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="37" /></a> <!-- Airflow --
 <a href="https://jupyter.org" title="Jupyter"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" /></a> <!-- Jupyter --
 <a href="https://www.cloud.google.com" title="Google Cloud"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" /></a> <!-- Google Cloud --
 
-
+https://keras.io
 En el repositorio principal poner una tabla que enlace a algunos de ellos 
 
 Para la paleta de colores -> https://icolorpalette.com/color
