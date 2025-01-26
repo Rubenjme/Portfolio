@@ -103,7 +103,7 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 </td>       
 
 <td width="50%">
-<h3 align="center">🎵Spotify ETL Pipeline with Docker and Airflow</h3>          
+<h3 align="center">🎵Spotify ETL pipeline with Docker and Airflow</h3>          
 <div align="center">
 <a href="https://github.com/Rubenjme/Spotify_ETL" target="_blank"><img src="https://img.freepik.com/fotos-premium/fondo-concierto-hd-8k-papel-pared-imagen-fotografica-stock_1066384-65.jpg" width="400" alt="ETL Spotify"></a>
 <p>
@@ -122,6 +122,22 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 </p>
 </div>
 </td>  
+
+
+<!----------------------------------------------------------------------------------------------->
+<!-------------------------------2a tabla, 2a fila (Data Engineering)---------------------------->
+<!----------------------------------------------------------------------------------------------->
+
+<tr>
+<td width="50%">
+<h3 align="center">Proyecto en desarrollo...</h3>
+</td>
+  
+<td width="50%">
+<h3 align="center">Proyecto en desarrollo...</h3>
+</td>
+</tr>
+
 </table>
 
 
