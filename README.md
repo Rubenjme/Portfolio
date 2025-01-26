@@ -105,10 +105,10 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <td width="50%">
 <h3 align="center">🎵Spotify ETL Pipeline with Docker and Airflow</h3>          
 <div align="center">
-<a href="https://github.com/Rubenjme/data_processing_hdfs_spark_mllib_kafka" target="_blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/024/637/674/small_2x/jet-plane-in-flight-generative-ai-photo.jpg" width="400" alt="HDFS, Spark and Kafka"></a>
+<a href="https://github.com/Rubenjme/Spotify_ETL" target="_blank"><img src="https://img.freepik.com/fotos-premium/fondo-concierto-hd-8k-papel-pared-imagen-fotografica-stock_1066384-65.jpg" width="400" alt="ETL Spotify"></a>
 <p>
-<a href="https://github.com/Rubenjme/data_processing_hdfs_spark_mllib_kafka" target="_blank">
-<img src="https://img.shields.io/badge/Go to the project-b3e6f5?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/Rubenjme/Spotify_ETL" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-8c5d9e?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>  This project automates the extraction, transformation, and loading of recent Spotify song playback data using its API. The data is loaded into a PostgreSQL database. The process is automated using Apache Airflow for orchestration and Docker for containerization </p>
