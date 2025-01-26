@@ -34,11 +34,11 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <td width="50%">
 <h3 align="center">1️⃣Digit classification with Neural networks with Keras</h3>
 <div align="center">
-<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://www.shutterstock.com/image-vector/deep-neural-network-dnn-diagram-600nw-2291330795.jpg" width="445" height = "260" alt="Curso intermedio Android"></a>
+<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://us.123rf.com/450wm/pitsvector/pitsvector1610/pitsvector161000057/67579683-resumen-de-fondo-n%C3%BAmeros-digitales.jpg" width="445" height = "260" alt="Curso intermedio Android"></a>
 
 <p>
 <a href="https://github.com/Rubenjme/Digit-classification" target="_blank">
-<img src="https://img.shields.io/badge/Go to the project-0b97d4?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Go to the project-1e4fa8?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 
