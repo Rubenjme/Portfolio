@@ -60,11 +60,11 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 
 <tr>
 <td width="50%">
-<h3 align="center">Proyecto en desarrollo...</h3>
+<h3 align="center">Project in development...</h3>
 </td>
   
 <td width="50%">
-<h3 align="center">Proyecto en desarrollo...</h3>
+<h3 align="center">Project in development...</h3>
 </td>
 </tr>
 </table>
@@ -130,11 +130,11 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 
 <tr>
 <td width="50%">
-<h3 align="center">Proyecto en desarrollo...</h3>
+<h3 align="center">Project in development...</h3>
 </td>
   
 <td width="50%">
-<h3 align="center">Proyecto en desarrollo...</h3>
+<h3 align="center">Project in development...</h3>
 </td>
 </tr>
 
