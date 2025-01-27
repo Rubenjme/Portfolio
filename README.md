@@ -60,11 +60,11 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 
 <tr>
 <td width="50%">
-<h3 align="center">Project in development...</h3>
+<h3 align="center">🚧Project in development...🚧</h3>
 </td>
   
 <td width="50%">
-<h3 align="center">Project in development...</h3>
+<h3 align="center">🚧Project in development...🚧</h3>
 </td>
 </tr>
 </table>
@@ -130,11 +130,11 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 
 <tr>
 <td width="50%">
-<h3 align="center">Project in development...</h3>
+<h3 align="center">🚧Project in development...🚧</h3>
 </td>
   
 <td width="50%">
-<h3 align="center">Project in development...</h3>
+<h3 align="center">🚧Project in development...🚧</h3>
 </td>
 </tr>
 
@@ -149,8 +149,8 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <a href="https://numpy.org" title="Numpy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" /></a> <!-- Numpy --
 <a href="https://pandas.pydata.org" title="Pandas"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="41" height="41" /></a> <!-- Pandas --
 <a href="https://keras.io" title="Keras"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" /></a> <!-- Keras --
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />  <!-- TensorFlow --
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />  <!-- Matplotlib --
+<a href="https://www.tensorflow.org" title="TensorFlow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="37" height="37" /></a> <!-- TensorFlow --
+<a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib --
 <a href="https://spark.apache.org" title="Apache Spark"> <img src="https://i.imgur.com/0qZULBd.png" alt="Apache Spark" width="55" height="33" /></a> <!-- Apache Spark --
 <a href="https://kafka.apache.org" title="Apache Kafka"> <img src="https://i.imgur.com/MFcdpIP.png" alt="Kafka" width="40" height="40" /></a> <!-- Kafka --
 <a href="https://hadoop.apache.org" title="Hadoop"> <img src="https://i.imgur.com/83PZnwA.png" alt="Hadoop" width="50" height="50" /></a> <!-- Hadoop --       
@@ -159,9 +159,6 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <a href="https://airflow.apache.org" title="Airflow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="37" /></a> <!-- Airflow --
 <a href="https://jupyter.org" title="Jupyter"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" /></a> <!-- Jupyter --
 <a href="https://www.cloud.google.com" title="Google Cloud"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" /></a> <!-- Google Cloud --
-
-https://keras.io
-En el repositorio principal poner una tabla que enlace a algunos de ellos 
 
 Para la paleta de colores -> https://icolorpalette.com/color
 Para iconos -> https://devicon.dev
