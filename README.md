@@ -9,7 +9,7 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <td width="50%">
 <h3 align="center">💨Air quality predictions: Linear regression and Decision trees</h3>
 <div align="center">
-<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://img.freepik.com/fotos-premium/calidad-aire-disminuye-debido-actividades-industriales-que-empeoran-niveles-contaminacion_795881-12126.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://img.freepik.com/fotos-premium/calidad-aire-disminuye-debido-actividades-industriales-que-empeoran-niveles-contaminacion_795881-12126.jpg" width="400" alt="Air quality predictions: Linear regression and Decision trees"></a>
   
 <p>
 <a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank">
@@ -34,7 +34,7 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <td width="50%">
 <h3 align="center">1️⃣Digit classification with Neural networks with Keras</h3>
 <div align="center">
-<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://us.123rf.com/450wm/pitsvector/pitsvector1610/pitsvector161000057/67579683-resumen-de-fondo-n%C3%BAmeros-digitales.jpg" width="445" height = "260" alt="Curso intermedio Android"></a>
+<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://us.123rf.com/450wm/pitsvector/pitsvector1610/pitsvector161000057/67579683-resumen-de-fondo-n%C3%BAmeros-digitales.jpg" width="445" height = "260" alt="Digit classification with Neural networks with Keras"></a>
 
 <p>
 <a href="https://github.com/Rubenjme/Digit-classification" target="_blank">
@@ -60,8 +60,28 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 
 <tr>
 <td width="50%">
-<h3 align="center">🚧Project in development...🚧</h3>
-</td>
+<h3 align="center">🛍️Exploratory Data Analysis on retail data using Google BigQuery</h3>
+<div align="center">
+<a href="https://github.com/Rubenjme/BigQuery_Exploratory_Data_Analysis" target="_blank"><img src="https://i.imgur.com/m9K9DDP.jpeg" width="445" height = "260" alt="Exploratory Data Analysis on retail data using Google BigQuery"></a>
+
+<p>
+<a href="https://github.com/Rubenjme/BigQuery_Exploratory_Data_Analysis" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-9755d9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+
+<p> .... </p>
+      
+<p align="center">
+<a href="https://es.wikipedia.org/wiki/SQL" title="SQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" /></a> <!-- SQL -->
+<a href="https://www.cloud.google.com" title="Google Cloud"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" /></a> <!-- Google Cloud -->
+<a href="https://cloud.google.com/bigquery?hl=es_419" title="BigQuery"> <img src="https://i.imgur.com/jyvi4ZT.png" alt="BigQuery" width="44" height="44" /></a> <!-- BigQuery -->
+
+</p>
+</div>                                                                                      
+</td> 
+  
+
   
 <td width="50%">
 <h3 align="center">🚧Project in development...🚧</h3>
