@@ -62,7 +62,7 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <td width="50%">
 <h3 align="center">🛍️Exploratory Data Analysis on retail data using Google BigQuery</h3>
 <div align="center">
-<a href="https://github.com/Rubenjme/BigQuery_Exploratory_Data_Analysis" target="_blank"><img src="https://i.imgur.com/m9K9DDP.jpeg" width="445" height = "260" alt="Exploratory Data Analysis on retail data using Google BigQuery"></a>
+<a href="https://github.com/Rubenjme/BigQuery_Exploratory_Data_Analysis" target="_blank"><img src="https://i.imgur.com/m9K9DDP.jpeg" width="440" height = "235" alt="Exploratory Data Analysis on retail data using Google BigQuery"></a>
 
 <p>
 <a href="https://github.com/Rubenjme/BigQuery_Exploratory_Data_Analysis" target="_blank">
