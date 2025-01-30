@@ -70,7 +70,7 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 </a>
 </p>
 
-<p> .... </p>
+<p> Exploratory data analysis of a retail chain using Google BigQuery and Google Cloud Storage. The project demonstrates the implementation of a cloud Data Warehouse to analyze historical sales data, store characteristics, and external factors, generating insights for business decision-making. </p>
       
 <p align="center">
 <a href="https://es.wikipedia.org/wiki/SQL" title="SQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" /></a> <!-- SQL -->
