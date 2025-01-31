@@ -47,8 +47,8 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <p align="center">
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
 <a href="https://keras.io" title="Keras"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" width="37" height="37" /></a> <!-- Keras -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="37" height="37" title="TensorFlow" />  <!-- TensorFlow -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" title="Matplotlib" />  <!-- Matplotlib -->
+<a href="https://www.tensorflow.org" title="TensorFlow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="37" height="37" /></a> <!-- TensorFlow -->
+<a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
 </p>
 </div>                                                                                      
 </td> 
@@ -76,7 +76,6 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <a href="https://es.wikipedia.org/wiki/SQL" title="SQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" /></a> <!-- SQL -->
 <a href="https://www.cloud.google.com" title="Google Cloud"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" /></a> <!-- Google Cloud -->
 <a href="https://cloud.google.com/bigquery?hl=es_419" title="BigQuery"> <img src="https://i.imgur.com/jyvi4ZT.png" alt="BigQuery" width="44" height="44" /></a> <!-- BigQuery -->
-
 </p>
 </div>                                                                                      
 </td> 
@@ -84,13 +83,47 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 
   
 <td width="50%">
-<h3 align="center">🚧Project in development...🚧</h3>
+<h3 align="center">🖼️Convolutional Neural Networks for image classification</h3>
+<div align="center">
+<a href="https://github.com/Rubenjme/Image_Classification_CNN" target="_blank"><img src="https://img.freepik.com/fotos-premium/hombre-mirando-pintura-palabra-tierra-ella_662214-533509.jpg" width="440" height = "235" alt="Convolutional Neural Networks for image classification"></a>
+
+<p>
+<a href="https://github.com/Rubenjme/Image_Classification_CNN" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-8c604a?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+
+<p> 🚧Project in development...🚧 </p>
+      
+<p align="center">
+<a href="https://colab.research.google.com" title="Google Colab"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/colab-color.png" alt="Colab" width="40" height="40" /></a> <!-- Colab -->
+<a href="https://keras.io" title="Keras"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" width="37" height="37" /></a> <!-- Keras -->
+<a href="https://www.tensorflow.org" title="TensorFlow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="37" height="37" /></a> <!-- TensorFlow -->
+<a href="https://scikit-learn.org" title="Scikit Learn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit learn" width="47" height="47" /></a> <!-- Scikit learn -->
+<a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
+<a href="https://seaborn.pydata.org" title="Seaborn"> <img src="https://i.imgur.com/cASQ9q1.png" alt="Seaborn" width="40" height="40" /></a> <!-- Seaborn -->
+
+</p>
+</div>
 </td>
 </tr>
+
+
+<!----------------------------------------------------------------------------------------------->
+<!-------------------------------------1a tabla, 3a fila (AI)------------------------------------>
+<!----------------------------------------------------------------------------------------------->
+<tr>
+
+<td width="50%">
+<h3 align="center">🚧Project in development...🚧</h3>
+</td>
+
+<td width="50%">
+<h3 align="center">🚧Project in development...🚧</h3>
+</td>
+
+</tr>
 </table>
-
-
-
 <!----------------------------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------------------------->
 <!--------------------------------2a tabla, 1a fila (Data Engineering)--------------------------->
@@ -179,6 +212,7 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <a href="https://airflow.apache.org" title="Airflow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="37" /></a> <!-- Airflow --
 <a href="https://jupyter.org" title="Jupyter"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" /></a> <!-- Jupyter --
 <a href="https://www.cloud.google.com" title="Google Cloud"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" /></a> <!-- Google Cloud --
+
 
 Para la paleta de colores -> https://icolorpalette.com/color
 Para iconos -> https://devicon.dev
