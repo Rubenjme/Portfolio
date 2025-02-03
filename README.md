@@ -76,6 +76,7 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <a href="https://es.wikipedia.org/wiki/SQL" title="SQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" /></a> <!-- SQL -->
 <a href="https://www.cloud.google.com" title="Google Cloud"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" /></a> <!-- Google Cloud -->
 <a href="https://cloud.google.com/bigquery?hl=es_419" title="BigQuery"> <img src="https://i.imgur.com/jyvi4ZT.png" alt="BigQuery" width="44" height="44" /></a> <!-- BigQuery -->
+<a href="https://lookerstudio.google.com/" title="Looker Studio"> <img src="https://funnel.io/hubfs/Looker%20Studio%20png%20logo.png" alt="Looker Studio" width="44" height="44" /></a> <!-- Looker Studio -->
 </p>
 </div>                                                                                      
 </td> 
@@ -212,6 +213,7 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <a href="https://airflow.apache.org" title="Airflow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="37" /></a> <!-- Airflow --
 <a href="https://jupyter.org" title="Jupyter"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" /></a> <!-- Jupyter --
 <a href="https://www.cloud.google.com" title="Google Cloud"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" /></a> <!-- Google Cloud --
+<a href="https://lookerstudio.google.com/" title="Looker Studio"> <img src="https://funnel.io/hubfs/Looker%20Studio%20png%20logo.png" alt="Looker Studio" width="44" height="44" /></a> <!-- Looker Studio --
 
 
 Para la paleta de colores -> https://icolorpalette.com/color
