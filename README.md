@@ -94,7 +94,7 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 </a>
 </p>
 
-<p>Classify images using CNNs with regularization techniques, Batch Normalization, and data augmentation. Three models—basic, advanced, and superior—are compared, highlighting how each improvement increases accuracy from ~78% to ~86%. Includes result analysis and proposals for future optimizations. </p>
+<p>Classify images using CNNs with regularization techniques, Batch Normalization, and data augmentation. Three models—basic, advanced, and superior—are compared, highlighting how each improvement increases accuracy from 78% to 86%. Includes result analysis and proposals for future optimizations. </p>
       
 <p align="center">
 <a href="https://colab.research.google.com" title="Google Colab"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/colab-color.png" alt="Colab" width="40" height="40" /></a> <!-- Colab -->
