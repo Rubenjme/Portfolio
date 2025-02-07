@@ -116,7 +116,20 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <tr>
 
 <td width="50%">
-<h3 align="center">🚧Project in development...🚧</h3>
+<h3 align="center">🌲SVM vs Random Forest: Classification of forest cover types</h3>
+<div align="center">
+<a href="https://github.com/Rubenjme/SVM_RF_Covertype" target="_blank"><img src="https://aventura-amazonia.com/laravel-filemanager/files/shares/Planeta%20Aventura/20210202.%20Los%20bosques/bosque.jpg" width="440" height = "235" alt="SVM vs Random Forest: Classification of Forest Cover Types"></a>
+
+<p>
+<a href="https://github.com/Rubenjme/SVM_RF_Covertype" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-1b8c2f?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+
+<p>🚧Project in development...🚧</p>
+      
+
+</div>
 </td>
 
 <td width="50%">
