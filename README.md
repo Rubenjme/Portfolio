@@ -126,7 +126,7 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 </a>
 </p>
 
-<p>🚧Project in development...🚧</p>
+<p>This project compares the performance of Random Forest and SVM in a multiclass classification problem using a forest cover dataset. Preprocessing techniques, class balancing, and hyperparameter tuning were applied with tools like scikit-learn, pandas, and matplotlib to evaluate metrics and optimize results.</p>
       
 <p align="center">
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
