@@ -140,9 +140,30 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 </div>
 </td>
 
+
+
 <td width="50%">
-<h3 align="center">🚧Project in development...🚧</h3>
+<h3 align="center">🗣Natural Language Processing for Hate Speech Detection</h3>
+<div align="center">
+<a href="https://github.com/Rubenjme/NLP_spaCy" target="_blank"><img src="https://st.depositphotos.com/1008939/3281/i/450/depositphotos_32817435-stock-photo-screaming-man.jpg" width="440" height = "235" alt="NLP Hate Speech"></a>
+
+<p>
+<a href="https://github.com/Rubenjme/NLP_spaCy" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-ffffff?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+
+<p>🚧Project in development...🚧</p>
+      
+<p align="center">
+<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
+<a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas -->
+<a href="https://spacy.io" title="Pandas"> <img src="https://assets.eweek.com/uploads/2024/04/spacy-icon.png" alt="Spacy" width="45" height="41" /></a> <!-- Pandas -->
+
+</p>
+</div>
 </td>
+
 
 </tr>
 </table>
