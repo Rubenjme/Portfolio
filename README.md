@@ -153,7 +153,7 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 </a>
 </p>
 
-<p>🚧Project in development...🚧</p>
+<p>This project uses SpaCy and NLP techniques to analyze hate and non-hate comments. It extracts named entities (NER), lemmatization, and linguistic patterns to identify key differences. It includes exploratory analysis, text processing, and trends in hate speech.</p>
       
 <p align="center">
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
