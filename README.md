@@ -145,11 +145,11 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <td width="50%">
 <h3 align="center">🗣Natural Language Processing for Hate Speech Detection</h3>
 <div align="center">
-<a href="https://github.com/Rubenjme/NLP_spaCy" target="_blank"><img src="https://st.depositphotos.com/1008939/3281/i/450/depositphotos_32817435-stock-photo-screaming-man.jpg" width="440" height = "235" alt="NLP Hate Speech"></a>
+<a href="https://github.com/Rubenjme/NLP_spaCy" target="_blank"><img src="https://i0.wp.com/cjp.org.in/wp-content/uploads/2018/01/Hate-Speech-FE-Legal-Resource.png?fit=1020%2C534&ssl=1" width="440" height = "235" alt="NLP Hate Speech"></a>
 
 <p>
 <a href="https://github.com/Rubenjme/NLP_spaCy" target="_blank">
-<img src="https://img.shields.io/badge/Go to the project-ffffff?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Go to the project-e65757?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 
