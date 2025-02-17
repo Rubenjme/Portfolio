@@ -103,8 +103,8 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <a href="https://scikit-learn.org" title="Scikit Learn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit learn" width="47" height="47" /></a> <!-- Scikit learn -->
 <a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
 <a href="https://seaborn.pydata.org" title="Seaborn"> <img src="https://i.imgur.com/cASQ9q1.png" alt="Seaborn" width="40" height="40" /></a> <!-- Seaborn -->
-
 </p>
+
 </div>
 </td>
 </tr>
@@ -159,10 +159,45 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
 <a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas -->
 <a href="https://spacy.io" title="Spacy"> <img src="https://assets.eweek.com/uploads/2024/04/spacy-icon.png" alt="Spacy" width="45" height="41" /></a> <!-- Spacy -->
-
 </p>
+
 </div>
 </td>
+</tr>
+
+<!----------------------------------------------------------------------------------------------->
+<!-------------------------------------1a tabla, 4a fila (AI)------------------------------------>
+<!----------------------------------------------------------------------------------------------->
+
+<tr>
+<td width="50%">
+<h3 align="center">📦Comparison of K-Means, Hierarchical Clustering, and DBSCAN in data segmentation</h3>
+<div align="center">
+<a href="https://github.com/Rubenjme/Unsupervised_Learning_Clusters" target="_blank"><img src="https://www.shutterstock.com/image-photo/big-data-analysis-ai-technology-600nw-2300417929.jpg" width="440" height = "235" alt="Clustering"></a>
+
+<p>
+<a href="https://github.com/Rubenjme/Unsupervised_Learning_Clusters" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-308dd9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+
+<p>...</p>
+ <!--     
+<p align="center">
+<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python --
+<a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas --
+<a href="https://spacy.io" title="Spacy"> <img src="https://assets.eweek.com/uploads/2024/04/spacy-icon.png" alt="Spacy" width="45" height="41" /></a> <!-- Spacy --
+</p> -->
+
+</div>
+</td>
+
+
+
+<td width="50%">
+<h3 align="center">🚧Project in development...🚧</h3>
+</td>
+
 
 
 </tr>
