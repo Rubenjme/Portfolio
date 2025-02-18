@@ -250,7 +250,25 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 
 
 <td width="50%">
-<h3 align="center">🚧Project in development...🚧</h3>
+<h3 align="center">🤖AI Text Generator on AWS</h3>          
+<div align="center">
+<a href="https://github.com/Rubenjme/Spotify_ETL" target="_blank"><img src="https://img.freepik.com/fotos-premium/chatgpt-ai-robot-responde-preguntas-escribe-papel-ia-generativa_634358-454.jpg" width="400" alt="AI Text"></a>
+<p>
+<a href="https://github.com/Rubenjme/Spotify_ETL" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-ad8945?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+  
+<p>🚧Project in development...🚧</p>
+
+<p align="center">
+<a href="aws.amazon.com" title="AWS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="43" /></a> <!-- AWS -->
+<a href="https://www.terraform.io" title="Terraform"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="43" height="42" /></a> <!-- Terraform-->
+<a href="https://fastapi.tiangolo.com" title="FastAPI"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a> <!-- FastAPI-->
+</p>    
+
+
+
 </td>
 </tr>
 
@@ -289,6 +307,9 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <a href="https://spark.apache.org" title="Apache Spark"> <img src="https://i.imgur.com/0qZULBd.png" alt="Apache Spark" width="55" height="33" /></a> <!-- Apache Spark --
 <a href="https://kafka.apache.org" title="Apache Kafka"> <img src="https://i.imgur.com/MFcdpIP.png" alt="Kafka" width="40" height="40" /></a> <!-- Kafka --
 <a href="https://hadoop.apache.org" title="Hadoop"> <img src="https://i.imgur.com/83PZnwA.png" alt="Hadoop" width="50" height="50" /></a> <!-- Hadoop --       
+<a href="aws.amazon.com" title="AWS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="43" /></a> <!-- AWS --
+<a href="https://www.terraform.io" title="Terraform"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="43" height="42" /></a> <!-- Terraform--
+<a href="https://fastapi.tiangolo.com" title="FastAPI"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a> <!-- FastAPI--
 <a href="https://www.postgresql.org" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a> <!-- PostgreSQL --
 <a href="https://www.docker.com" title="Docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /></a> <!-- Docker --
 <a href="https://airflow.apache.org" title="Airflow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="37" /></a> <!-- Airflow --
