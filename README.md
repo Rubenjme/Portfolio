@@ -1,9 +1,14 @@
 # 💼Portfolio
 
-Greetings! My name is Rubén, and I'm excited to share my still developing portfolio. Within this repository, you'll find a catalog of projects I've undertaken related to data analysis, data engineering, and artificial intelligence. Each project showcases a variety of skills and techniques.
+**Welcome to my portfolio!**
 
-## 🤖 **Projects related to Artificial Intelligence & Data Analysis** 📊
-<!-- 1a tabla, 1a fila (AI)-->
+Hi, I'm Rubén, and I'm excited to share my journey in data analysis, data engineering, and artificial intelligence. This repository showcases a collection of projects where I apply machine learning, big data processing, and advanced analytics techniques. Each project includes practical implementations, insights, and optimizations.
+
+Feel free to explore, and don't hesitate to reach out if you have any questions or feedback! 
+
+<!----------------------------------------------------------------------------------------------->
+<!-------------------------------------1a tabla, 1a fila ---------------------------------------->
+<!----------------------------------------------------------------------------------------------->
 <table>
 <tr>
 <td width="50%">
@@ -55,7 +60,7 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 
 
 <!----------------------------------------------------------------------------------------------->
-<!-------------------------------------1a tabla, 2a fila (AI)------------------------------------>
+<!-------------------------------------1a tabla, 2a fila ---------------------------------------->
 <!----------------------------------------------------------------------------------------------->
 
 <tr>
@@ -111,10 +116,9 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 
 
 <!----------------------------------------------------------------------------------------------->
-<!-------------------------------------1a tabla, 3a fila (AI)------------------------------------>
+<!-------------------------------------1a tabla, 3a fila ---------------------------------------->
 <!----------------------------------------------------------------------------------------------->
 <tr>
-
 <td width="50%">
 <h3 align="center">🌲SVM vs Random Forest: Classification of forest cover types</h3>
 <div align="center">
@@ -135,7 +139,6 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas -->
 <a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
 <a href="https://seaborn.pydata.org" title="Seaborn"> <img src="https://i.imgur.com/cASQ9q1.png" alt="Seaborn" width="40" height="40" /></a> <!-- Seaborn -->
-
 </p>
 </div>
 </td>
@@ -160,13 +163,12 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas -->
 <a href="https://spacy.io" title="Spacy"> <img src="https://assets.eweek.com/uploads/2024/04/spacy-icon.png" alt="Spacy" width="45" height="41" /></a> <!-- Spacy -->
 </p>
-
 </div>
 </td>
 </tr>
 
 <!----------------------------------------------------------------------------------------------->
-<!-------------------------------------1a tabla, 4a fila (AI)------------------------------------>
+<!-------------------------------------1a tabla, 4a fila ---------------------------------------->
 <!----------------------------------------------------------------------------------------------->
 
 <tr>
@@ -191,33 +193,12 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <a href="https://scipy.org" title="SciPy"> <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" alt="SciPy" width="40" height="40" /></a> <!-- SciPy-->
 <a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
 <a href="https://seaborn.pydata.org" title="Seaborn"> <img src="https://i.imgur.com/cASQ9q1.png" alt="Seaborn" width="40" height="40" /></a> <!-- Seaborn -->
-
-
 </p>
 
 </div>
 </td>
 
 
-
-<td width="50%">
-<h3 align="center">🚧Project in development...🚧</h3>
-</td>
-
-
-
-</tr>
-</table>
-<!----------------------------------------------------------------------------------------------->
-<!----------------------------------------------------------------------------------------------->
-<!--------------------------------2a tabla, 1a fila (Data Engineering)--------------------------->
-<!----------------------------------------------------------------------------------------------->
-<!----------------------------------------------------------------------------------------------->
-
-## ⚙**Projects related to Data Engineering**
-
-<table>
-<tr>
 <td width="50%">
 <h3 align="center">✈Processing and prediction of flight delays with HDFS, Spark, and Kafka</h3>
 <div align="center">
@@ -238,7 +219,14 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 </p>
 </div>                                                                                   
 </td>       
+</tr>
 
+
+<!----------------------------------------------------------------------------------------------->
+<!-------------------------------------1a tabla, 5a fila ---------------------------------------->
+<!----------------------------------------------------------------------------------------------->
+
+<tr>
 <td width="50%">
 <h3 align="center">🎵Spotify ETL pipeline with Docker and Airflow</h3>          
 <div align="center">
@@ -258,22 +246,30 @@ Greetings! My name is Rubén, and I'm excited to share my still developing portf
 <a href="https://airflow.apache.org" title="Airflow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="37" /></a> <!-- Airflow -->
 </p>
 </div>
-</td>  
-
-
-<!----------------------------------------------------------------------------------------------->
-<!-------------------------------2a tabla, 2a fila (Data Engineering)---------------------------->
-<!----------------------------------------------------------------------------------------------->
-
-<tr>
-<td width="50%">
-<h3 align="center">🚧Project in development...🚧</h3>
 </td>
-  
+
+
 <td width="50%">
 <h3 align="center">🚧Project in development...🚧</h3>
 </td>
 </tr>
+
+
+<!----------------------------------------------------------------------------------------------->
+<!-------------------------------------1a tabla, 6a fila ---------------------------------------->
+<!----------------------------------------------------------------------------------------------->
+<tr>
+<td width="50%">
+<h3 align="center">🚧Project in development...🚧</h3>
+</td>
+
+
+<td width="50%">
+<h3 align="center">🚧Project in development...🚧</h3>
+</td>
+</tr>
+
+
 
 </table>
 
