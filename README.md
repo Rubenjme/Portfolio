@@ -262,7 +262,7 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <p>🚧Project in development...🚧</p>
 
 <p align="center">
-<a href="aws.amazon.com" title="AWS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="43" /></a> <!-- AWS -->
+<a href="https://aws.amazon.com" title="AWS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="43" /></a> <!-- AWS -->
 <a href="https://www.terraform.io" title="Terraform"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="43" height="42" /></a> <!-- Terraform-->
 <a href="https://fastapi.tiangolo.com" title="FastAPI"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a> <!-- FastAPI-->
 </p>    
