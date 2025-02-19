@@ -263,6 +263,7 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 
 <p align="center">
 <a href="https://aws.amazon.com" title="AWS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="43" /></a> <!-- AWS -->
+<a href="https://aws.amazon.com/es/lambda/" title="Lambda"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" alt="Lambda" width="40" height="40" /></a> <!-- Lambda-->
 <a href="https://www.terraform.io" title="Terraform"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="43" height="42" /></a> <!-- Terraform-->
 <a href="https://fastapi.tiangolo.com" title="FastAPI"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a> <!-- FastAPI-->
 </p>    
