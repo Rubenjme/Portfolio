@@ -252,9 +252,9 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <td width="50%">
 <h3 align="center">🤖AI Text Generator on AWS</h3>          
 <div align="center">
-<a href="https://github.com/Rubenjme/Spotify_ETL" target="_blank"><img src="https://img.freepik.com/fotos-premium/chatgpt-ai-robot-responde-preguntas-escribe-papel-ia-generativa_634358-454.jpg" width="400" alt="AI Text"></a>
+<a href="https://github.com/Rubenjme/AI_Text_AWS" target="_blank"><img src="https://img.freepik.com/fotos-premium/chatgpt-ai-robot-responde-preguntas-escribe-papel-ia-generativa_634358-454.jpg" width="400" alt="AI Text"></a>
 <p>
-<a href="https://github.com/Rubenjme/Spotify_ETL" target="_blank">
+<a href="https://github.com/Rubenjme/AI_Text_AWS" target="_blank">
 <img src="https://img.shields.io/badge/Go to the project-ad8945?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -264,8 +264,12 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <p align="center">
 <a href="https://aws.amazon.com" title="AWS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="43" /></a> <!-- AWS -->
 <a href="https://aws.amazon.com/es/lambda/" title="Lambda"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" alt="Lambda" width="40" height="40" /></a> <!-- Lambda-->
+<a href="https://aws.amazon.com/es/dynamodb/" title="DynamoDB"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB" width="44" height="44" /></a> <!-- DynamoDB -->
+<a href="https://aws.amazon.com/es/s3/" title="S3"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="S3" width="44" height="44" /></a> <!-- S3 -->
 <a href="https://www.terraform.io" title="Terraform"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="43" height="42" /></a> <!-- Terraform-->
 <a href="https://fastapi.tiangolo.com" title="FastAPI"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a> <!-- FastAPI-->
+
+
 </p>    
 
 
@@ -309,6 +313,8 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <a href="https://kafka.apache.org" title="Apache Kafka"> <img src="https://i.imgur.com/MFcdpIP.png" alt="Kafka" width="40" height="40" /></a> <!-- Kafka --
 <a href="https://hadoop.apache.org" title="Hadoop"> <img src="https://i.imgur.com/83PZnwA.png" alt="Hadoop" width="50" height="50" /></a> <!-- Hadoop --       
 <a href="aws.amazon.com" title="AWS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="43" /></a> <!-- AWS --
+<a href="https://aws.amazon.com/es/dynamodb/" title="DynamoDB"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB" width="44" height="44" /></a> <!-- DynamoDB --
+<a href="https://aws.amazon.com/es/s3/" title="S3"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="S3" width="44" height="44" /></a> <!-- S3 --
 <a href="https://www.terraform.io" title="Terraform"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="43" height="42" /></a> <!-- Terraform--
 <a href="https://fastapi.tiangolo.com" title="FastAPI"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a> <!-- FastAPI--
 <a href="https://www.postgresql.org" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a> <!-- PostgreSQL --
