@@ -269,21 +269,32 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <a href="https://www.terraform.io" title="Terraform"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="43" height="42" /></a> <!-- Terraform-->
 <a href="https://fastapi.tiangolo.com" title="FastAPI"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a> <!-- FastAPI-->
 
-
 </p>    
-
-
-
 </td>
+
+
 </tr>
 
-
+Pipeline de análisis financiero con PostgreSQL y NiFi
 <!----------------------------------------------------------------------------------------------->
 <!-------------------------------------1a tabla, 6a fila ---------------------------------------->
 <!----------------------------------------------------------------------------------------------->
 <tr>
 <td width="50%">
-<h3 align="center">🚧Project in development...🚧</h3>
+<h3 align="center">💰Financial Analysis Pipeline with PostgreSQL and NiFi</h3>          
+<div align="center">
+<a href="https://github.com/Rubenjme/AI_Text_AWS" target="_blank"><img src="https://img.freepik.com/fotos-premium/ladron-dinero-foto-adultos_53876-394046.jpg" width="400" alt="Análisis financiero"></a>
+<p>
+<a href="https://github.com/Rubenjme/AI_Text_AWS" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-3b3b3b?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+  
+<p>🚧Project in development...🚧</p>
+
+<p align="center">
+<a href="https://www.postgresql.org" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a> <!-- PostgreSQL -->
+</p>    
 </td>
 
 
