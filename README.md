@@ -275,7 +275,6 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 
 </tr>
 
-Pipeline de análisis financiero con PostgreSQL y NiFi
 <!----------------------------------------------------------------------------------------------->
 <!-------------------------------------1a tabla, 6a fila ---------------------------------------->
 <!----------------------------------------------------------------------------------------------->
@@ -294,6 +293,7 @@ Pipeline de análisis financiero con PostgreSQL y NiFi
 
 <p align="center">
 <a href="https://www.postgresql.org" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a> <!-- PostgreSQL -->
+<a href="https://nifi.apache.org" title="Apache NiFi"> <img src="https://i.imgur.com/TXIwDEO.png" alt="NiFi" width="39" height="39" /></a> <!-- NiFi -->
 </p>    
 </td>
 
@@ -331,6 +331,7 @@ Pipeline de análisis financiero con PostgreSQL y NiFi
 <a href="https://www.postgresql.org" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a> <!-- PostgreSQL --
 <a href="https://www.docker.com" title="Docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /></a> <!-- Docker --
 <a href="https://airflow.apache.org" title="Airflow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="37" /></a> <!-- Airflow --
+<a href="https://nifi.apache.org" title="Apache NiFi"> <img src="https://i.imgur.com/TXIwDEO.png" alt="NiFi" width="39" height="39" /></a> <!-- NiFi --
 <a href="https://jupyter.org" title="Jupyter"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" /></a> <!-- Jupyter --
 <a href="https://www.cloud.google.com" title="Google Cloud"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" /></a> <!-- Google Cloud --
 <a href="https://lookerstudio.google.com/" title="Looker Studio"> <img src="https://funnel.io/hubfs/Looker%20Studio%20png%20logo.png" alt="Looker Studio" width="44" height="44" /></a> <!-- Looker Studio --
