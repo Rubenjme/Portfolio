@@ -292,6 +292,7 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <p>🚧Project in development...🚧</p>
 
 <p align="center">
+<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
 <a href="https://www.postgresql.org" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a> <!-- PostgreSQL -->
 <a href="https://nifi.apache.org" title="Apache NiFi"> <img src="https://i.imgur.com/TXIwDEO.png" alt="NiFi" width="39" height="39" /></a> <!-- NiFi -->
 </p>    
