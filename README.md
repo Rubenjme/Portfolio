@@ -280,7 +280,7 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <!----------------------------------------------------------------------------------------------->
 <tr>
 <td width="50%">
-<h3 align="center">💰Financial Analysis Pipeline with PostgreSQL and NiFi</h3>          
+<h3 align="center">💰Financial analysis pipeline with PostgreSQL and NiFi</h3>          
 <div align="center">
 <a href="https://github.com/Rubenjme/AI_Text_AWS" target="_blank"><img src="https://img.freepik.com/fotos-premium/ladron-dinero-foto-adultos_53876-394046.jpg" width="400" alt="Análisis financiero"></a>
 <p>
