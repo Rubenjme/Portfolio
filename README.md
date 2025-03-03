@@ -271,8 +271,6 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 
 </p>    
 </td>
-
-
 </tr>
 
 <!----------------------------------------------------------------------------------------------->
@@ -300,11 +298,32 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 
 
 <td width="50%">
-<h3 align="center">🚧Project in development...🚧</h3>
+<h3 align="center">🔍Search Algorithms for Route Planning in Parcel Delivery</h3>       
+<div align="center">
+<a href="https://github.com/Rubenjme/Search_Algorithms" target="_blank"><img src="" width="400" alt="Algoritmos de búsqueda"></a>
+<p>
+<a href="https://github.com/Rubenjme/Search_Algorithms" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-3b3b3b?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+  
+<p>🚧Project in development...🚧</p>
 </td>
 </tr>
 
+<!----------------------------------------------------------------------------------------------->
+<!-------------------------------------1a tabla, 7a fila ---------------------------------------->
+<!----------------------------------------------------------------------------------------------->
 
+<tr>
+<td width="50%">
+<h3 align="center">🚧Project in development...🚧</h3>
+</td>
+
+<td width="50%">
+<h3 align="center">🚧Project in development...🚧</h3>
+</td>
+</tr>
 
 </table>
 
