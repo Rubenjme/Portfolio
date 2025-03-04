@@ -247,7 +247,7 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <td width="50%">
 <h3 align="center">🔍Search Algorithms for route planning in parcel delivery</h3>       
 <div align="center">
-<a href="https://github.com/Rubenjme/Search_Algorithms" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/004/451/065/non_2x/delivery-service-isometric-illustration-parcel-transportation-map-cargo-and-freight-shipment-logistic-and-distribution-delivery-point-truck-transportation-route-3d-concept-vector.jpg" width="400" alt="Algoritmos de búsqueda"></a>
+<a href="https://github.com/Rubenjme/Search_Algorithms" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/004/451/065/non_2x/delivery-service-isometric-illustration-parcel-transportation-map-cargo-and-freight-shipment-logistic-and-distribution-delivery-point-truck-transportation-route-3d-concept-vector.jpg" width="375" alt="Algoritmos de búsqueda"></a>
 <p>
 <a href="https://github.com/Rubenjme/Search_Algorithms" target="_blank">
 <img src="https://img.shields.io/badge/Go to the project-ffffff?style=for-the-badge&logo=github&logoColor=black">
