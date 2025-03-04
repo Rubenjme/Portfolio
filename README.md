@@ -298,16 +298,22 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 
 
 <td width="50%">
-<h3 align="center">🔍Search Algorithms for Route Planning in Parcel Delivery</h3>       
+<h3 align="center">🔍Search Algorithms for route planning in parcel delivery</h3>       
 <div align="center">
-<a href="https://github.com/Rubenjme/Search_Algorithms" target="_blank"><img src="" width="400" alt="Algoritmos de búsqueda"></a>
+<a href="https://github.com/Rubenjme/Search_Algorithms" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/004/451/065/non_2x/delivery-service-isometric-illustration-parcel-transportation-map-cargo-and-freight-shipment-logistic-and-distribution-delivery-point-truck-transportation-route-3d-concept-vector.jpg" width="400" alt="Algoritmos de búsqueda"></a>
 <p>
 <a href="https://github.com/Rubenjme/Search_Algorithms" target="_blank">
-<img src="https://img.shields.io/badge/Go to the project-3b3b3b?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Go to the project-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
   
 <p>🚧Project in development...🚧</p>
+
+<p align="center">
+<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
+<a href="https://numpy.org" title="Numpy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" /></a> <!-- Numpy -->
+<a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
+</p> 
 </td>
 </tr>
 
