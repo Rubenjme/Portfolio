@@ -260,7 +260,8 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
 <a href="https://numpy.org" title="Numpy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" /></a> <!-- Numpy -->
 <a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
-</p> 
+</p>
+</div>
 </td>
 </tr>
 
@@ -284,7 +285,8 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
 <a href="https://www.postgresql.org" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a> <!-- PostgreSQL -->
 <a href="https://nifi.apache.org" title="Apache NiFi"> <img src="https://i.imgur.com/TXIwDEO.png" alt="NiFi" width="39" height="39" /></a> <!-- NiFi -->
-</p>    
+</p>
+</div>
 </td>
 
 <td width="50%">
@@ -306,7 +308,8 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <a href="https://aws.amazon.com/es/s3/" title="S3"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="S3" width="44" height="44" /></a> <!-- S3 -->
 <a href="https://www.terraform.io" title="Terraform"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="43" height="42" /></a> <!-- Terraform-->
 <a href="https://fastapi.tiangolo.com" title="FastAPI"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a> <!-- FastAPI-->
-</p>    
+</p>
+</div>
 </td>
 </tr>
 
