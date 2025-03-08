@@ -50,7 +50,7 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
 <a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas -->
 <a href="https://www.postgresql.org" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a> <!-- PostgreSQL -->
-<a href="https://www.docker.com" title="Docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /></a> <!-- Docker -->
+<a href="https://www.docker.com" title="Docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="55" height="55" /></a> <!-- Docker -->
 <a href="https://airflow.apache.org" title="Airflow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="37" /></a> <!-- Airflow -->
 </p>
 </div>
@@ -272,9 +272,9 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <td width="50%">
 <h3 align="center">💰Financial analysis pipeline with PostgreSQL and NiFi</h3>          
 <div align="center">
-<a href="https://github.com/Rubenjme/AI_Text_AWS" target="_blank"><img src="https://img.freepik.com/fotos-premium/ladron-dinero-foto-adultos_53876-394046.jpg" width="400" alt="Análisis financiero"></a>
+<a href="https://github.com/Rubenjme/Financiero_NiFi" target="_blank"><img src="https://img.freepik.com/fotos-premium/ladron-dinero-foto-adultos_53876-394046.jpg" width="400" alt="Análisis financiero"></a>
 <p>
-<a href="https://github.com/Rubenjme/AI_Text_AWS" target="_blank">
+<a href="https://github.com/Rubenjme/Financiero_NiFi" target="_blank">
 <img src="https://img.shields.io/badge/Go to the project-3b3b3b?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -287,6 +287,7 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <a href="https://nifi.apache.org" title="Apache NiFi"> <img src="https://i.imgur.com/TXIwDEO.png" alt="NiFi" width="39" height="39" /></a> <!-- NiFi -->
 <a href="https://numpy.org" title="Numpy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" /></a> <!-- Numpy -->
 <a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas -->
+<a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
 </p>
 </div>
 </td>
