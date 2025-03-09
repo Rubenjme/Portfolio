@@ -279,12 +279,13 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 </a>
 </p>
   
-<p>🚧Project in development...🚧</p>
+<p>Development of a fraud detection pipeline using NiFi, PostgreSQL, and Python. NiFi handles dataset ingestion and stores it in PostgreSQL for further exploratory data analysis (EDA) and Machine Learning modeling. Docker enhances reproducibility, providing an end-to-end approach.</p>
 
 <p align="center">
 <a href="https://www.docker.com" title="Docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="55" height="55" /></a> <!-- Docker -->
 <a href="https://www.postgresql.org" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a> <!-- PostgreSQL -->
 <a href="https://nifi.apache.org" title="Apache NiFi"> <img src="https://i.imgur.com/TXIwDEO.png" alt="NiFi" width="39" height="39" /></a> <!-- NiFi -->
+<a href="https://scikit-learn.org" title="Scikit Learn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit learn" width="47" height="47" /></a> <!-- Scikit learn -->
 <a href="https://numpy.org" title="Numpy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" /></a> <!-- Numpy -->
 <a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas -->
 <a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
