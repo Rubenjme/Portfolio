@@ -296,17 +296,17 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <td width="50%">
 <h3 align="center">📈Supply Chain Dashboard - Simulation and KPI Analysis</h3>          
 <div align="center">
-<a href="https://github.com/Rubenjme/SupplyChain-Dashboard" target="_blank"><img src="https://img.freepik.com/fotos-premium/chatgpt-ai-robot-responde-preguntas-escribe-papel-ia-generativa_634358-454.jpg" width="400" alt="Supply Chain"></a>
+<a href="https://github.com/Rubenjme/SupplyChain-Dashboard" target="_blank"><img src="https://media.istockphoto.com/id/1652511983/vector/supply-chain-management-scm-conceptual-illustration.jpg?s=612x612&w=0&k=20&c=TMgOhstUF1uNFE1dvg1UZ4kOuFrRtvlGinC7AYbArkM=" height="265" width="400" alt="Supply Chain"></a>
 <p>
 <a href="https://github.com/Rubenjme/SupplyChain-Dashboard" target="_blank">
-<img src="https://img.shields.io/badge/Go to the project-ad8945?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Go to the project-854db0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
   
 <p>This project integrates Python, VBA, and Power BI to simulate and analyze supply chain data in the aerospace sector. It generates synthetic data, calculates KPIs, automates data processing in Excel using VBA, and visualizes the results in an interactive dashboard for decision-making.</p>
 
 <p align="center">
-<a href="https://learn.microsoft.com/es-es/office/vba/library-reference/concepts/getting-started-with-vba-in-office" title="VBA"> <img src="https://www.svgrepo.com/show/374159/vba.svg" alt="VBA" width="65" height="80" /></a> <!-- VBA -->
+<a href="https://learn.microsoft.com/es-es/office/vba/library-reference/concepts/getting-started-with-vba-in-office" title="VBA"> <img src="https://i.imgur.com/ivly5Wa.png" alt="VBA" width="53" height="46" /></a> <!-- VBA -->
 
 </p>
 </div>
