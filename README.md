@@ -294,6 +294,31 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 </td>
 
 <td width="50%">
+<h3 align="center">📈Supply Chain Dashboard - Simulation and KPI Analysis</h3>          
+<div align="center">
+<a href="https://github.com/Rubenjme/SupplyChain-Dashboard" target="_blank"><img src="https://img.freepik.com/fotos-premium/chatgpt-ai-robot-responde-preguntas-escribe-papel-ia-generativa_634358-454.jpg" width="400" alt="Supply Chain"></a>
+<p>
+<a href="https://github.com/Rubenjme/SupplyChain-Dashboard" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-ad8945?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+  
+<p>🚧Project in development...🚧</p>
+
+<p align="center">
+<a href="https://learn.microsoft.com/es-es/office/vba/library-reference/concepts/getting-started-with-vba-in-office" title="VBA"> <img src="https://www.svgrepo.com/show/374159/vba.svg" alt="VBA" width="65" height="80" /></a> <!-- VBA -->
+
+</p>
+</div>
+</td>
+</tr>
+
+<!----------------------------------------------------------------------------------------------->
+<!-------------------------------------1a tabla, 7a fila ---------------------------------------->
+<!----------------------------------------------------------------------------------------------->
+
+<tr>
+<td width="50%">
 <h3 align="center">🤖AI Text Generator on AWS</h3>          
 <div align="center">
 <a href="https://github.com/Rubenjme/AI_Text_AWS" target="_blank"><img src="https://img.freepik.com/fotos-premium/chatgpt-ai-robot-responde-preguntas-escribe-papel-ia-generativa_634358-454.jpg" width="400" alt="AI Text"></a>
@@ -314,16 +339,6 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <a href="https://fastapi.tiangolo.com" title="FastAPI"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a> <!-- FastAPI-->
 </p>
 </div>
-</td>
-</tr>
-
-<!----------------------------------------------------------------------------------------------->
-<!-------------------------------------1a tabla, 7a fila ---------------------------------------->
-<!----------------------------------------------------------------------------------------------->
-
-<tr>
-<td width="50%">
-<h3 align="center">🚧Project in development...🚧</h3>
 </td>
 
 <td width="50%">
