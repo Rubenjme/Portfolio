@@ -306,7 +306,13 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <p>This project integrates Python, VBA, and Power BI to simulate and analyze supply chain data in the aerospace sector. It generates synthetic data, calculates KPIs, automates data processing in Excel using VBA, and visualizes the results in an interactive dashboard for decision-making.</p>
 
 <p align="center">
-<a href="https://learn.microsoft.com/es-es/office/vba/library-reference/concepts/getting-started-with-vba-in-office" title="VBA"> <img src="https://i.imgur.com/ivly5Wa.png" alt="VBA" width="53" height="46" /></a> <!-- VBA -->
+<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
+<a href="https://numpy.org" title="Numpy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" /></a> <!-- Numpy -->
+<a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas -->
+<a href="https://www.microsoft.com/es-es/microsoft-365/excel" title="Excel"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="37" height="39" /></a> <!-- Excel -->
+<a href="https://learn.microsoft.com/es-es/office/vba/library-reference/concepts/getting-started-with-vba-in-office" title="VBA"> <img src="https://i.imgur.com/ivly5Wa.png" alt="VBA" width="48" height="40" /></a> <!-- VBA -->
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" title="PowerBI"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="38" height="37" /></a> <!-- PowerBI -->
+
 
 </p>
 </div>
@@ -361,6 +367,9 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <a href="https://keras.io" title="Keras"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" /></a> <!-- Keras --
 <a href="https://www.tensorflow.org" title="TensorFlow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="37" height="37" /></a> <!-- TensorFlow --
 <a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib --
+<a href="https://www.microsoft.com/es-es/microsoft-365/excel" title="Excel"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="37" height="39" /></a> <!-- Excel --
+<a href="https://learn.microsoft.com/es-es/office/vba/library-reference/concepts/getting-started-with-vba-in-office" title="VBA"> <img src="https://i.imgur.com/ivly5Wa.png" alt="VBA" width="48" height="40" /></a> <!-- VBA --
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" title="PowerBI"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="38" height="37" /></a> <!-- PowerBI --
 <a href="https://spark.apache.org" title="Apache Spark"> <img src="https://i.imgur.com/0qZULBd.png" alt="Apache Spark" width="55" height="33" /></a> <!-- Apache Spark --
 <a href="https://kafka.apache.org" title="Apache Kafka"> <img src="https://i.imgur.com/MFcdpIP.png" alt="Kafka" width="40" height="40" /></a> <!-- Kafka --
 <a href="https://hadoop.apache.org" title="Hadoop"> <img src="https://i.imgur.com/83PZnwA.png" alt="Hadoop" width="50" height="50" /></a> <!-- Hadoop --       
