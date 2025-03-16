@@ -303,7 +303,7 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 </a>
 </p>
   
-<p>🚧Project in development...🚧</p>
+<p>This project integrates Python, VBA, and Power BI to simulate and analyze supply chain data in the aerospace sector. It generates synthetic data, calculates KPIs, automates data processing in Excel using VBA, and visualizes the results in an interactive dashboard for decision-making.</p>
 
 <p align="center">
 <a href="https://learn.microsoft.com/es-es/office/vba/library-reference/concepts/getting-started-with-vba-in-office" title="VBA"> <img src="https://www.svgrepo.com/show/374159/vba.svg" alt="VBA" width="65" height="80" /></a> <!-- VBA -->
