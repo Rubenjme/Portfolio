@@ -303,7 +303,7 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 </a>
 </p>
   
-<p>This project integrates Python, VBA, and Power BI to simulate and analyze supply chain data in the aerospace sector. It generates synthetic data, calculates KPIs, automates data processing in Excel using VBA, and visualizes the results in an interactive dashboard for decision-making.</p>
+<p>This project integrates Python, VBA, and Power BI to simulate and analyze supply chain data. It generates synthetic data, calculates KPIs, automates data processing in Excel using VBA, and visualizes the results in an interactive dashboard for decision-making.</p>
 
 <p align="center">
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
