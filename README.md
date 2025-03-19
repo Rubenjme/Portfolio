@@ -325,6 +325,29 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 
 <tr>
 <td width="50%">
+<h3 align="center">📊Data Visualization: Course Reviews</h3>          
+<div align="center">
+<a href="https://github.com/Rubenjme/Data_Visualization" target="_blank"><img src="https://plus.unsplash.com/premium_photo-1681487769650-a0c3fbaed85a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Z3JhcGhzfGVufDB8fDB8fHww" width="400" alt="Data Visualization"></a>
+<p>
+<a href="https://github.com/Rubenjme/Data_Visualization" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-ad8945?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+  
+<p>🚧Project in development...🚧</p>
+
+<p align="center">
+<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
+<a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas -->
+<a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
+<a href="https://www.highcharts.com" title="Highcharts"> <img src="https://cdn.worldvectorlogo.com/logos/highcharts.svg" alt="Highcharts" width="38" height="38" /></a> <!-- Highcharts -->
+
+
+</p>
+</div>
+</td>
+
+<td width="50%">
 <h3 align="center">🤖AI Text Generator on AWS</h3>          
 <div align="center">
 <a href="https://github.com/Rubenjme/AI_Text_AWS" target="_blank"><img src="https://img.freepik.com/fotos-premium/chatgpt-ai-robot-responde-preguntas-escribe-papel-ia-generativa_634358-454.jpg" width="400" alt="AI Text"></a>
@@ -345,6 +368,16 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <a href="https://fastapi.tiangolo.com" title="FastAPI"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a> <!-- FastAPI-->
 </p>
 </div>
+</td>
+</tr>
+
+
+<!----------------------------------------------------------------------------------------------->
+<!-------------------------------------1a tabla, 8a fila ---------------------------------------->
+<!----------------------------------------------------------------------------------------------->
+<tr>
+<td width="50%">
+<h3 align="center">🚧Project in development...🚧</h3>
 </td>
 
 <td width="50%">
@@ -385,6 +418,7 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <a href="https://jupyter.org" title="Jupyter"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" /></a> <!-- Jupyter --
 <a href="https://www.cloud.google.com" title="Google Cloud"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" /></a> <!-- Google Cloud --
 <a href="https://lookerstudio.google.com/" title="Looker Studio"> <img src="https://funnel.io/hubfs/Looker%20Studio%20png%20logo.png" alt="Looker Studio" width="44" height="44" /></a> <!-- Looker Studio --
+<a href="https://www.highcharts.com" title="Highcharts"> <img src="https://cdn.worldvectorlogo.com/logos/highcharts.svg" alt="Highcharts" width="38" height="38" /></a> <!-- Highcharts --
 
 
 Para la paleta de colores -> https://icolorpalette.com/color
