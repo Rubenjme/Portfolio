@@ -327,21 +327,20 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 <td width="50%">
 <h3 align="center">📊Data Visualization: Course Reviews</h3>          
 <div align="center">
-<a href="https://github.com/Rubenjme/Data_Visualization" target="_blank"><img src="https://plus.unsplash.com/premium_photo-1681487769650-a0c3fbaed85a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Z3JhcGhzfGVufDB8fDB8fHww" width="400" alt="Data Visualization"></a>
+<a href="https://github.com/Rubenjme/Data_Visualization" target="_blank"><img src="https://wallpapersok.com/images/hd/finance-papers-and-graph-syi8iu2po5gkc08b.jpg" height="260" width="400" alt="Data Visualization"></a>
 <p>
 <a href="https://github.com/Rubenjme/Data_Visualization" target="_blank">
 <img src="https://img.shields.io/badge/Go to the project-ad8945?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
   
-<p>🚧Project in development...🚧</p>
+<p>This project, developed as a tutorial, analyzes and visualizes course reviews using Python, JustPy, and HighCharts. It generates interactive charts to assess trends in daily, weekly, and monthly ratings, as well as course comparisons. Ideal for practicing data visualization and web development with lightweight frameworks.</p>
 
 <p align="center">
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
 <a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas -->
 <a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
 <a href="https://www.highcharts.com" title="Highcharts"> <img src="https://cdn.worldvectorlogo.com/logos/highcharts.svg" alt="Highcharts" width="38" height="38" /></a> <!-- Highcharts -->
-
 
 </p>
 </div>
