@@ -2,9 +2,9 @@
 
 **Welcome to my portfolio!**
 
-Hi, I'm Rubén, and I'm excited to share my journey in data analysis, data engineering, and artificial intelligence. This repository showcases a collection of projects where I apply machine learning, big data processing, and advanced analytics techniques. Each project includes practical implementations, insights, and optimizations.
+Hi, I'm Rubén, and in this repository I will showcase my collection of personal projects, most of them in the field of data science and artificial intelligence.
 
-Feel free to explore, and don't hesitate to reach out if you have any questions or feedback! 
+Feel free to contact me if you have any questions or feedback!
 
 <!----------------------------------------------------------------------------------------------->
 <!-------------------------------------1a tabla, 1a fila ---------------------------------------->
