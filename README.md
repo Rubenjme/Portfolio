@@ -362,6 +362,7 @@ Feel free to contact me if you have any questions or feedback!
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
 <a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas -->
 <a href="https://jupyter.org" title="Jupyter"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" /></a> <!-- Jupyter -->
+<a href="https://pypi.org/project/beautifulsoup4/" title="BeautifulSoup"> <img src="https://i.imgur.com/BoEpavq.png" alt="BeautifulSoup" width="90" height="45" /></a> <!-- BeautifulSoup -->
 
 
 </p>
@@ -416,6 +417,7 @@ Feel free to contact me if you have any questions or feedback!
 <a href="https://spacy.io" title="Spacy"> <img src="https://assets.eweek.com/uploads/2024/04/spacy-icon.png" alt="Spacy" width="45" height="41" /></a> <!-- Spacy --
 <a href="https://keras.io" title="Keras"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" /></a> <!-- Keras --
 <a href="https://www.tensorflow.org" title="TensorFlow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="37" height="37" /></a> <!-- TensorFlow --
+<a href="https://pypi.org/project/beautifulsoup4/" title="BeautifulSoup"> <img src="https://i.imgur.com/BoEpavq.png" alt="BeautifulSoup" width="90" height="45" /></a> <!-- BeautifulSoup --
 <a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib --
 <a href="https://www.microsoft.com/es-es/microsoft-365/excel" title="Excel"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="37" height="39" /></a> <!-- Excel --
 <a href="https://learn.microsoft.com/es-es/office/vba/library-reference/concepts/getting-started-with-vba-in-office" title="VBA"> <img src="https://i.imgur.com/ivly5Wa.png" alt="VBA" width="48" height="40" /></a> <!-- VBA --
