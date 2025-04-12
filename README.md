@@ -347,7 +347,7 @@ Feel free to contact me if you have any questions or feedback!
 </td>
 
 <td width="50%">
- <h3 align="center">⛏️Scraping Real Estate Listings from Century21 for Data Analysis</h3>          
+ <h3 align="center">⛏️Scraping Real Estate listings from Century21 for data analysis</h3>          
 <div align="center">
 <a href="https://github.com/Rubenjme/Scraping_century21" target="_blank"><img src="https://img.freepik.com/premium-photo/excavator-work-construction-site-digging-dirt-concept-construction-vehicles-earthmoving-equipment-heavy-machinery-building-site-industrial-operations_918839-108081.jpg" height="260" width="400" alt="Scraping Web"></a>
 <p>
@@ -356,7 +356,7 @@ Feel free to contact me if you have any questions or feedback!
 </a>
 </p>
   
-<p>...</p>
+<p>This project scrapes real estate listings from Century21 website. It extracts data such as price, address, area, and number of rooms, storing everything in a CSV file for later analysis.</p>
 
 <p align="center">
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
