@@ -347,6 +347,34 @@ Feel free to contact me if you have any questions or feedback!
 </td>
 
 <td width="50%">
+ <h3 align="center">⛏️Scraping Real Estate Listings from Century21 for Data Analysis</h3>          
+<div align="center">
+<a href="https://github.com/Rubenjme/Scraping_century21" target="_blank"><img src="https://img.freepik.com/premium-photo/excavator-work-construction-site-digging-dirt-concept-construction-vehicles-earthmoving-equipment-heavy-machinery-building-site-industrial-operations_918839-108081.jpg" height="260" width="400" alt="Scraping Web"></a>
+<p>
+<a href="https://github.com/Rubenjme/Scraping_century21" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+  
+<p>...</p>
+
+<p align="center">
+<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
+<a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas -->
+<a href="https://jupyter.org" title="Jupyter"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" /></a> <!-- Jupyter -->
+
+
+</p>
+</div>
+</td>
+</tr>
+
+
+<!----------------------------------------------------------------------------------------------->
+<!-------------------------------------1a tabla, 8a fila ---------------------------------------->
+<!----------------------------------------------------------------------------------------------->
+<tr>
+<td width="50%">
 <h3 align="center">🤖AI Text Generator on AWS</h3>          
 <div align="center">
 <a href="https://github.com/Rubenjme/AI_Text_AWS" target="_blank"><img src="https://img.freepik.com/fotos-premium/chatgpt-ai-robot-responde-preguntas-escribe-papel-ia-generativa_634358-454.jpg" width="400" alt="AI Text"></a>
@@ -367,16 +395,6 @@ Feel free to contact me if you have any questions or feedback!
 <a href="https://fastapi.tiangolo.com" title="FastAPI"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a> <!-- FastAPI-->
 </p>
 </div>
-</td>
-</tr>
-
-
-<!----------------------------------------------------------------------------------------------->
-<!-------------------------------------1a tabla, 8a fila ---------------------------------------->
-<!----------------------------------------------------------------------------------------------->
-<tr>
-<td width="50%">
-<h3 align="center">🚧Project in development...🚧</h3>
 </td>
 
 <td width="50%">
